@@ -7,9 +7,7 @@
     "example": "example"
   },
   "dependencies": {
-    "jsonrequest": "^3.0.0",
-    "request": "^2.60.0",
-    "tinyreq": "^3.0.1"
+    "request": "^2.60.0"
   },
   "devDependencies": {},
   "scripts": {
