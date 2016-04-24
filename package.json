@@ -1,7 +1,7 @@
 {
   "name": "grapinizer",
   "version": "1.0.0",
-  "description": "An Node.js wrapper for grapinizer.com.",
+  "description": "A Node.js wrapper for grapinizer.com.",
   "main": "lib/index.js",
   "directories": {
     "example": "example"
