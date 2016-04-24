@@ -1,6 +1,6 @@
-var Grapinizer = require("../lib");
+const grapinizer = require("../lib");
 
-Grapinizer("Merg la pădure"
-  , function (err, res) {
+grapinizer("Răsăritul de soare din această dimineață a fost minunat.", (err, res) => {
     console.log(err || res);
+    // => Rasaritul de,soare din aciasta dininiața a fost minunat.
 });

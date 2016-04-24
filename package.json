@@ -1,0 +1,37 @@
+{
+  "name": "grapinizer",
+  "version": "1.0.0",
+  "description": "An Node.js wrapper for grapinizer.com.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "jsonrequest": "^3.0.0",
+    "request": "^2.60.0",
+    "tinyreq": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grapinizer",
+    "romanian",
+    "language",
+    "malform",
+    "text",
+    "api",
+    "wrapper"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/grapinizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/grapinizer/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/grapinizer#readme"
+}
