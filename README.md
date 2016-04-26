@@ -25,6 +25,7 @@ grapinizer("Răsăritul de soare din această dimineață a fost minunat.", (err
 
 ## :memo: Documentation
 
+
 ### `grapinizer(input, cb)`
 Transform the input text into a malformed Romanian grammar version of it.
 
@@ -36,6 +37,7 @@ Transform the input text into a malformed Romanian grammar version of it.
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
+
 
 ## :scroll: License
 
