@@ -1,6 +1,6 @@
 {
   "name": "grapinizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js wrapper for grapinizer.com.",
   "main": "lib/index.js",
   "directories": {
@@ -31,5 +31,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/grapinizer/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/grapinizer#readme"
+  "homepage": "https://github.com/IonicaBizau/grapinizer#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
