@@ -1,6 +1,6 @@
 {
   "name": "grapinizer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js wrapper for grapinizer.com.",
   "main": "lib/index.js",
   "directories": {
@@ -40,6 +40,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
