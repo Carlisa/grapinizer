@@ -1,6 +1,6 @@
 {
   "name": "grapinizer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Node.js wrapper for grapinizer.com.",
   "main": "lib/index.js",
   "directories": {
@@ -22,7 +22,7 @@
     "api",
     "wrapper"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -36,12 +36,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
