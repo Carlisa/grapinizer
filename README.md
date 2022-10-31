@@ -48,6 +48,7 @@
 
 
 ## :cloud: Installation
+Using the below commands, you can install in order using npm module.
 
 ```sh
 # Using npm
@@ -94,7 +95,7 @@ grapinizer("Răsăritul de soare din această dimineață a fost minunat.", (err
 
 ## :question: Get Help
 
-There are few ways to get help:
+There are few ways to get help, please check the below points and useful links:
 
 
 
